@@ -1,0 +1,12 @@
+let zuma =  prompt('ismingizni kiriting');
+alert(zuma);
+let zumka =  prompt ('familiyangizni kiriting');
+alert(zumka);
+let khamz =  prompt ('yoshingizni kiriting');
+alert(khamz);
+let leno =  prompt ('yoqtirgan fanizni yozing');
+alert(leno);
+let user =  prompt ('yashayotgan joyizni kiriting');
+alert(user);
+let fein = ('kiritgan malumotiz uchun raxmat!');
+alert(fein);
